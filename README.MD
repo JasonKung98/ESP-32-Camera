@@ -2,7 +2,7 @@ ESP32 Camera Ardunio Library
 ====================
 Each example is tested using the TTGO T-Journal.
 
-![jpg](./images/TTGOcam.jpg)
+![image](./images/TTGOcam.jpg)
 
 The example contains three programs:
 - Upload a photo to the [BIGIOT](https://www.bigiot.net/) platform every 30 seconds
